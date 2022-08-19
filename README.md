@@ -3,7 +3,7 @@
 
 ## About this Project
 - This Project is build by Using Html and CSS .                
-- This is a home page of Saas .
+- This is a home page of street style .
 - i use most of flexbox in this project and also it's  mobile responsive.  
 
 ---
@@ -15,7 +15,7 @@
 - i also utilize grid and also learn about it.
 
 #### Time-Taken
-- it takes almost 3-4 hours to complete this project.
+- it takes almost 2-4 hours to complete this project.
 ---
 [visit This Website](https://street-style-landingp.netlify.app/)
 ---
